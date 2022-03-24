@@ -9,7 +9,7 @@ However, that is not enough because a higher consume is forcing the original ele
 Typical solution has been adding a charging circuit for the battery and a power converter to replace the old and not efficiently one which is included in the GBC. Some people also add an audio amplifier to hear better the speaker sound. All these things make the GBC perfect, however the installation require a lot of cables and can not be easy for some people without enough knowledge.
 
 Typical installation of the 3 modules:
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/other/Sascha.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/main/Sascha.jpg)
 *(Thanks to Sascha for the photo of his installation!)*
 
 For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** include the three circuits in one, everything wired each other, and you will just need to solder a few points to the GBC board.
