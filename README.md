@@ -10,7 +10,7 @@ Typical solution has been adding a charging circuit for the battery and a power 
 
 Typical installation of the 3 modules:
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/main/Sascha.jpg)
-*(Thanks to Sascha for the photo of his installation!)*
+*(Thanks Sascha for the photo of his installation!)*
 
 For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** include the three circuits in one, everything wired each other, and you will just need to solder a few points to the GBC board.
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/IMG_20220306_161632.jpg)
