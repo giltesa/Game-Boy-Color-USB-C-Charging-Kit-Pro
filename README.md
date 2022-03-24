@@ -22,12 +22,15 @@ For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** include t
 **This board includes:**
 
 - **Li-ion battery charger chip MCP73833:**
+
 ... in progres ...
 
 - **Boost Converter chip TPS61202:**
+
 ... in progres ...
 
 - **Audio Amplifier chip TPA2005D1:**
+
 ... in progres ...
 
 
