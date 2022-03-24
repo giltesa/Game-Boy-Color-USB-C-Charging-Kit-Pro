@@ -4,6 +4,17 @@ The **Game Boy Color USB-C Charging Kit PRO** is the new circuit for **Nintendo 
 
 ... in progres ...
 
+
+## Photos (v1.0)
+
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/IMG_20220306_161632.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/2022-03-06%2017_08_10.jpg)
+
+## Photos (v1.1)
+
+... in progres ...
+
+
 ## License
 
 This project is licensed under a **Creative Commons** license:
