@@ -18,6 +18,13 @@ For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** include t
 
 ... in progres ...
 
+New v1.1:
+
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20top%20v1.1.jpg)
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20bottom%20v1.1.jpg)
+
+... in progres ...
+
 
 **This board includes:**
 
