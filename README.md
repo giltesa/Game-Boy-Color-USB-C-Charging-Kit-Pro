@@ -1,34 +1,45 @@
+
+
 # Game Boy Color USB-C Charging Kit PRO
 
 The **Game Boy Color USB-C Charging Kit PRO** is the new circuit for **Nintendo Game Boy Color**. This time is all in one circuit and includes not only the **charging controller** but also a **boost converter** and **audio amplifier**.
 
-The modern **IPS displays** with background light require more energy than the stock display. Also, **the flash cards** to load tons of games consume the battery very fast. If you really want to enjoy the games, the best way to do it is using a li-ion battery instead of AA batteries.
+The modern **IPS displays** with background light require more energy than the stock display. Also, **the flash cards** to load tons of games consume the battery very fast. If you really want to enjoy the games, the best way to do it is using a rechargeable battery instead of AA batteries.
 
 However, that is not enough because a higher consume is forcing the original electronic to strive more than it can. That may cause noise in the speaker or headphones.
 
 Typical solution has been adding a charging circuit for the battery and a power converter to replace the old and not efficiently one which is included in the GBC. Some people also add an audio amplifier to hear better the speaker sound. All these things make the GBC perfect, however the installation require a lot of cables and can not be easy for some people without enough knowledge.
 
 Typical installation of the 3 modules:
+
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/main/Sascha.jpg)
 *(Thanks Sascha for the photo of his installation!)*
 
-For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** include the three circuits in one, everything wired each other, and you will just need to solder a few points to the GBC board.
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/IMG_20220306_161632.jpg)
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/2022-03-06%2017_08_10.jpg)
+For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** includes the three circuits in one, everything wired each other, and you will just need to solder a few points to the GBC board.
+
+## Testing boards
+
+![Game Boy Color USB-C Charging Kit PRO - Version 1.0 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/IMG_20220306_161632.jpg)
+*(Game Boy Color USB-C Charging Kit PRO - **Version 1.0 for testing**)*
+
+![Game Boy Color USB-C Charging Kit PRO - Version 1.0 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/2022-03-06%2017_08_10.jpg)
+*(Game Boy Color USB-C Charging Kit PRO - **Version 1.0 for testing**)*
 
 ... in progres ...
 
-New v1.1:
+![Game Boy Color USB-C Charging Kit PRO - Version 1.1 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20top%20v1.1.jpg)
+*(Game Boy Color USB-C Charging Kit PRO - **Version 1.1 for testing**)*
 
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20top%20v1.1.jpg)
-![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20bottom%20v1.1.jpg)
+![Game Boy Color USB-C Charging Kit PRO - Version 1.1 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20bottom%20v1.1.jpg)
+*(Game Boy Color USB-C Charging Kit PRO - **Version 1.1 for testing**)*
+
 
 ... in progres ...
 
 
-## This board includes:
+## This board includes
 
-**Li-ion battery charger chip MCP73833:**
+### Li-ion battery charger chip MCP73833:
 
 The MCP73833 is a battery charger which allows to charge a single-cell Lithium Ion or Lithium Polymer battery of 3.7/4.2v
 
@@ -37,14 +48,14 @@ It chargers the battery in three stages: First a preconditioning charge, then a 
 The board includes two status light indicators: one in red color for charging status and another one in green color when charging is complete.
 
 
-**Boost Converter chip TPS61202:**
+### Boost Converter chip TPS61202:
 
 The TPS61202 is a boost converter or also called DC to DC converter. It takes the input voltage from the battery and increase it to 5V, which is the necessary voltage to make the GBC works.
 
 It has an [efficiency between 80 to 90%](https://www.pololu.com/product/2564#lightbox-picture0J4685), which depends on the battery load and current required from the GBC (IPS screen, flash card, other addons, etc.)
 
 
-**Audio Amplifier chip TPA2005D1:**
+### Audio Amplifier chip TPA2005D1:
 
 The TPA2005D1 is a high-efficient audio class D amplifier which can make your GBC speaker sound louder. It comes preconfigured to increase the volume to the double, however, soldering the jumpers SJ2 and SJ3 you can increase the volume to triple.
 
