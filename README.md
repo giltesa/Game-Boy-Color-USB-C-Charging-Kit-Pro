@@ -39,20 +39,17 @@ For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** includes 
 
 ## This board includes
 
-### Li-ion battery charger chip MCP73833:
+### Li-ion battery charger chip ~~MCP73833~~:
 
-The MCP73833 is a battery charger which allows to charge a single-cell Lithium Ion or Lithium Polymer battery of 3.7/4.2v
-
+~~The MCP73833 is a battery charger which allows to charge a single-cell Lithium Ion or Lithium Polymer battery of 3.7/4.2v
 It chargers the battery in three stages: First a preconditioning charge, then a constant-current fast charge at 1000mA and finally a constant-voltage trickle charge to keep the battery topped-up.
+The board includes two status light indicators: one in red color for charging status and another one in green color when charging is complete.~~
 
-The board includes two status light indicators: one in red color for charging status and another one in green color when charging is complete.
 
+### Boost Converter chip ~~TPS61202~~:
 
-### Boost Converter chip TPS61202:
-
-The TPS61202 is a boost converter or also called DC to DC converter. It takes the input voltage from the battery and increase it to 5V, which is the necessary voltage to make the GBC works.
-
-It has an [efficiency between 80 to 90%](https://www.pololu.com/product/2564#lightbox-picture0J4685), which depends on the battery load and current required from the GBC (IPS screen, flash card, other addons, etc.)
+~~The TPS61202 is a boost converter or also called DC to DC converter. It takes the input voltage from the battery and increase it to 5V, which is the necessary voltage to make the GBC works.
+It has an [efficiency between 80 to 90%](https://www.pololu.com/product/2564#lightbox-picture0J4685), which depends on the battery load and current required from the GBC (IPS screen, flash card, other addons, etc.)~~
 
 
 ### Audio Amplifier chip TPA2005D1:
@@ -82,3 +79,4 @@ This project is licensed under a **Creative Commons** license:
 **[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
 
 Check the [LICENSE.md](LICENSE.md) for more information.
+
