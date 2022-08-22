@@ -17,59 +17,40 @@ Typical installation of the 3 modules:
 
 For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** includes the three circuits in one, everything wired each other, and you will just need to solder a few points to the GBC board.
 
-## Testing boards
-
-![Game Boy Color USB-C Charging Kit PRO - Version 1.0 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/IMG_20220306_161632.jpg)
-*(Game Boy Color USB-C Charging Kit PRO - **Version 1.0 for testing**)*
-
-![Game Boy Color USB-C Charging Kit PRO - Version 1.0 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.0/2022-03-06%2017_08_10.jpg)
-*(Game Boy Color USB-C Charging Kit PRO - **Version 1.0 for testing**)*
-
-... in progres ...
-
-![Game Boy Color USB-C Charging Kit PRO - Version 1.1 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20top%20v1.1.jpg)
-*(Game Boy Color USB-C Charging Kit PRO - **Version 1.1 for testing**)*
-
-![Game Boy Color USB-C Charging Kit PRO - Version 1.1 for testing](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/v1.1/Game%20Boy%20Color%20USB-C%20Charging%20Kit%20PRO%20-%20bottom%20v1.1.jpg)
-*(Game Boy Color USB-C Charging Kit PRO - **Version 1.1 for testing**)*
-
-
-... in progres ...
-
+![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/5.%20Photos/main/gbc-pro-installed-1.jpg)
 
 ## This board includes
 
-### Li-ion battery charger chip ~~MCP73833~~:
-
-~~The MCP73833 is a battery charger which allows to charge a single-cell Lithium Ion or Lithium Polymer battery of 3.7/4.2v
-It chargers the battery in three stages: First a preconditioning charge, then a constant-current fast charge at 1000mA and finally a constant-voltage trickle charge to keep the battery topped-up.
-The board includes two status light indicators: one in red color for charging status and another one in green color when charging is complete.~~
+### Li-ion battery charger chip TP5000:
+TP5000 is a switching buck single lithium battery charge management chip. Its QFN16 ultra-compact package making the TP5000 is ideal for portable equipment large current charging management applications. Meanwhile, TP5000 built-in input overcurrent, undervoltage protection, over temperature protection, short circuit protection, battery temperature monitoring, reverse battery protection.
 
 
-### Boost Converter chip ~~TPS61202~~:
-
-~~The TPS61202 is a boost converter or also called DC to DC converter. It takes the input voltage from the battery and increase it to 5V, which is the necessary voltage to make the GBC works.
-It has an [efficiency between 80 to 90%](https://www.pololu.com/product/2564#lightbox-picture0J4685), which depends on the battery load and current required from the GBC (IPS screen, flash card, other addons, etc.)~~
+### Boost Converter chip MT3540:
+The MT3540 is a constant frequency, 5-pin SOT23 current mode step-up converter intended for small, low power applications. The MT3540 switches at 1.2MHz and allows the use of tiny, low cost capacitors and inductors 2mm or less in height. Internal soft-start results in small inrush current and extends battery life.
 
 
-### Audio Amplifier chip TPA2005D1:
+### Audio Amplifier chip PAM8302A:
+The PAM8302A is a 2.5W Class-D mono audio amplifier. Its low THD+N feature offers high quality sound reproduction. The new filterless architecture allows the device to drive speakers directly instead of using low-pass output filters, therefore saving system cost and PCB area.
 
-The TPA2005D1 is a high-efficient audio class D amplifier which can make your GBC speaker sound louder. It comes preconfigured to increase the volume to the double, however, soldering the jumpers SJ2 and SJ3 you can increase the volume to triple.
 
-It can drive an 8-Ohm speaker at up to 1.4 Watts. It’s recommendable to change the [speaker](https://www.aliexpress.com/item/1005002313603099.html) for a new one if you think yours is too old.
+## FEATURES
 
-The audio amp is going to increase any sound from the audio output, that means that if your GBC makes noise, maybe because the capacitors are old, the noise is going to sound louder too. It’s strongly recommended to change the [capacitors](https://www.aliexpress.com/item/1005002727830780.html) with new ones.
+-   Exact shape for Game Boy Color.
+-   Li-Ion battery charger by USB-C with protection for charging level and overdischarge.
+-   DC to DC converter (only 5V output, not compatible with the original display).
+-   Audio amplifier for the speaker with a potentiometer called VR1 to setup the maximum volume.
+-   Integrated LED indicators on the main board, next to the USB for charging battery (red) and full battery (green). It can be disabled by the jumper SJ1.
+-   External LED indicators board for playing (white), charging battery (red) and full battery (green). Optional installation.
 
 
 ## Would you like it?
 
-Please, let me know if you may be interested on it:
-https://forms.gle/kAVVn7HgGxtpDnhy7
+https://shop.giltesa.com/product/game-boy-color-usb-c-charging-kit-pro/
 
 
 ## More
 
-- [giltesa.com](https://giltesa.com/en/nintendo-usb-c-charging-kit "giltesa.com")
+- [giltesa.com](https://giltesa.com "giltesa.com")
 - [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
 
 
@@ -79,4 +60,3 @@ This project is licensed under a **Creative Commons** license:
 **[Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
 
 Check the [LICENSE.md](LICENSE.md) for more information.
-
