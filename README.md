@@ -57,6 +57,7 @@ https://shop.giltesa.com/product/game-boy-color-usb-c-charging-kit-pro/
 ## Thankfulness
 
 Thanks to [Zekfoo](https://github.com/Zekfoo/) for sharing his wonderful [project ](https://github.com/Zekfoo/CGZ) and solve some doubts I had.
+
 Also, thanks to [lygte](https://lygte-info.dk) for his review of the IC [TP500](https://lygte-info.dk/review/Review%20Charger%20TP5000%204.2-3.6V%20module%20UK.html)
 
 
