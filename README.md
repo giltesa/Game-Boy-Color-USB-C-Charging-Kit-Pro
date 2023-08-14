@@ -19,19 +19,6 @@ For resolving that, this new **Game Boy Color USB-C Charging Kit PRO** includes 
 
 ![GBC](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/4.%20Photos/main/gbc-pro-installed-1.jpg)
 
-## This board includes
-
-### Li-ion battery charger chip TP5000:
-TP5000 is a switching buck single lithium battery charge management chip. Its QFN16 ultra-compact package making the TP5000 is ideal for portable equipment large current charging management applications. Meanwhile, TP5000 built-in input overcurrent, undervoltage protection, over temperature protection, short circuit protection, battery temperature monitoring, reverse battery protection.
-
-
-### Boost Converter chip MT3540:
-The MT3540 is a constant frequency, 5-pin SOT23 current mode step-up converter intended for small, low power applications. The MT3540 switches at 1.2MHz and allows the use of tiny, low cost capacitors and inductors 2mm or less in height. Internal soft-start results in small inrush current and extends battery life.
-
-
-### Audio Amplifier chip PAM8302A:
-The PAM8302A is a 2.5W Class-D mono audio amplifier. Its low THD+N feature offers high quality sound reproduction. The new filterless architecture allows the device to drive speakers directly instead of using low-pass output filters, therefore saving system cost and PCB area.
-
 
 ## FEATURES
 
@@ -56,9 +43,9 @@ https://shop.giltesa.com/product/game-boy-color-usb-c-charging-kit-pro/
 
 ## Thankfulness
 
-Thanks to [Zekfoo](https://github.com/Zekfoo/) for sharing his wonderful [project ](https://github.com/Zekfoo/CGZ) and solve some doubts I had.
+Thanks to [Zekfoo](https://github.com/Zekfoo/) for sharing his wonderful [project ](https://github.com/Zekfoo/CGZ) and solve some doubts I had. (v2.X)
 
-Also, thanks to [lygte](https://lygte-info.dk) for his review of the IC [TP500](https://lygte-info.dk/review/Review%20Charger%20TP5000%204.2-3.6V%20module%20UK.html)
+Also, thanks to [lygte](https://lygte-info.dk) for his review of the IC [TP500](https://lygte-info.dk/review/Review%20Charger%20TP5000%204.2-3.6V%20module%20UK.html) (v2.X)
 
 
 ## License
