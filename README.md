@@ -1,5 +1,3 @@
-
-
 # Game Boy Color USB-C Charging Kit PRO
 
 The **Game Boy Color USB-C Charging Kit PRO** is the new circuit for **Nintendo Game Boy Color**. This time is all in one circuit and includes not only the **charging controller** but also a **boost converter** and **audio amplifier**.
