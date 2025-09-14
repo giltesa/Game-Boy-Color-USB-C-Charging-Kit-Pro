@@ -1,0 +1,4 @@
+![Game Boy Color USB-C Charging Kit PRO - Cutting Tool 1](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/2.%20Renders%2C%203D%20models/Cutting%20Tool/Photos/GBC_USB-C_Charging_Kit_Pro_Cutting_Tool_1.jpg)
+![Game Boy Color USB-C Charging Kit PRO - Cutting Tool 2](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/2.%20Renders%2C%203D%20models/Cutting%20Tool/Photos/GBC_USB-C_Charging_Kit_Pro_Cutting_Tool_2.jpg)
+![Game Boy Color USB-C Charging Kit PRO - Cutting Tool 3](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/2.%20Renders%2C%203D%20models/Cutting%20Tool/Photos/GBC_USB-C_Charging_Kit_Pro_Cutting_Tool_3.jpg)
+![Game Boy Color USB-C Charging Kit PRO - Cutting Tool 4](https://raw.githubusercontent.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/master/2.%20Renders%2C%203D%20models/Cutting%20Tool/Photos/GBC_USB-C_Charging_Kit_Pro_Cutting_Tool_4.jpg)
